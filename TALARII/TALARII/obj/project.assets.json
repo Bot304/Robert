@@ -100,24 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\EGOR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\TALARII\\TALARII\\TALARII.csproj",
+      "projectUniqueName": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\TALARII.csproj",
       "projectName": "TALARII",
-      "projectPath": "C:\\C#\\TALARII\\TALARII\\TALARII.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\TALARII\\TALARII\\obj\\",
+      "projectPath": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\TALARII.csproj",
+      "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
+      "outputPath": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\EGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -167,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

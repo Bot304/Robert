@@ -1,0 +1,49 @@
+﻿
+@media screen and (min-width: 300px) and (max-width: 1200px) .basket {
+    width: 21px;
+    float: right;
+    margin: 14px 5px 15px 5px;
+    position: relative;
+}
+
+.image-two {
+    fill: darkgreen;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    font-size: 0;
+}
+.mount {
+    position: absolute;
+    font-size: 9px;
+    width: 10px;
+    height: 10px;
+    background: #c00;
+    color: #fff;
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+    border-radius: 20px;
+    bottom: -1px;
+    right: 1px;
+}
+
+.ty-dropdown-box {
+    display: inline-block;
+    position: relative;
+    color: #34495e;
+}
+.ty-dropdown-box__title {
+    position: relative;
+    display: inline-block;
+    padding: 7px 11px 7px 8px;
+    border: 1px solid transparent;
+}
+.dropdown-box__title {
+    position: relative;
+    display: inline-block;
+    padding: 0px;
+    border: 0px solid transparent;
+}

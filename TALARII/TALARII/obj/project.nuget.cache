@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gw9/9P/4agLP6c+gV/Lhd7Rh7yrdGGWg9DRCFOWuARpZMHs6HN4sa29sHOYUrHZS2AyGtMdsMug8R4KIshaaTw==",
+  "dgSpecHash": "mgk7KDK+q9EW9JFwkRu+vOryAFgDFX+j/ZO2ogFBmDRW0woWZ5LMe+f6F2Z3f7iBujHjOMN3PgyShFNHgVs4Jw==",
   "success": true,
-  "projectFilePath": "C:\\C#\\TALARII\\TALARII\\TALARII.csproj",
+  "projectFilePath": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\TALARII.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+    "C:\\Users\\EGOR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],
   "logs": []
 }
