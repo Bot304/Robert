@@ -13,6 +13,11 @@ namespace TALARII.Controllers
             return View();
         }
 
-        
+        public IActionResult CardList()
+        {
+            return View();
+        }
+
+
     }
 }
