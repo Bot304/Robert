@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QCkxBeqfpBjYtx8R8hFNRjn0vBQTySVb+H5gbVbTQ3M=",
+  "Hash": "lanC+6MhXFZ/2fMRdCHIAITFtvPyV+q13L0sPDowkRg=",
   "Source": "TALARII",
   "BasePath": "_content/TALARII",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\img\\Contacts.jpg",
+      "SourceId": "TALARII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
+      "BasePath": "_content/TALARII",
+      "RelativePath": "img/Contacts.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Contacts.jpg"
     },
     {
       "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\img\\Jordan.jpg",
