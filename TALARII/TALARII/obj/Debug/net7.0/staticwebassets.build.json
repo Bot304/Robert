@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "dHh1sbR9vFZKvnHv3EPMU9bJ8TUqxYOI2818AHTXvKQ=",
+=======
+  "Hash": "lanC+6MhXFZ/2fMRdCHIAITFtvPyV+q13L0sPDowkRg=",
+>>>>>>> 6e21befc66071194c6b87944e578ca6c95a0f72e
   "Source": "TALARII",
   "BasePath": "_content/TALARII",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "TALARII\\wwwroot",
       "Source": "TALARII",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TALARII.styles.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TALARII.styles.css",
       "SourceId": "TALARII",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "TALARII.styles.css",
       "AssetKind": "All",
@@ -31,13 +35,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TALARII.styles.css"
+      "OriginalItemSpec": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TALARII.styles.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TALARII.bundle.scp.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TALARII.bundle.scp.css",
       "SourceId": "TALARII",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "TALARII.bundle.scp.css",
       "AssetKind": "All",
@@ -48,9 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TALARII.bundle.scp.css"
+      "OriginalItemSpec": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TALARII.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\Custom.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
@@ -69,9 +74,29 @@
     },
     {
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\site.css",
+=======
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\css\\Custom.css",
+>>>>>>> 6e21befc66071194c6b87944e578ca6c95a0f72e
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
+      "BasePath": "_content/TALARII",
+      "RelativePath": "css/Custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Custom.css"
+    },
+    {
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\css\\site.css",
+      "SourceId": "TALARII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +110,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\favicon.ico",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\favicon.ico",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,6 +127,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Contacts.jpg",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
@@ -120,9 +146,29 @@
     },
     {
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Jordan.jpg",
+=======
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\img\\Contacts.jpg",
+>>>>>>> 6e21befc66071194c6b87944e578ca6c95a0f72e
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
+      "BasePath": "_content/TALARII",
+      "RelativePath": "img/Contacts.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Contacts.jpg"
+    },
+    {
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\img\\Jordan.jpg",
+      "SourceId": "TALARII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "img/Jordan.jpg",
       "AssetKind": "All",
@@ -136,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Jordan.jpg"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\img\\logo.png",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -153,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\js\\site.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\js\\site.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -170,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -187,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -204,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -221,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -238,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -255,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -272,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -289,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -306,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -323,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -340,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -357,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -374,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -391,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -459,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -476,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -493,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -510,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -527,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -595,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -612,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -629,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -646,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -799,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -816,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -833,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -850,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -867,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -884,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -901,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -918,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -935,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -952,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -969,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -986,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1003,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1020,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1037,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1054,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1071,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1088,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1105,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1122,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "ContentRoot": "C:\\CSharp\\Robert-main\\TALARII\\TALARII\\wwwroot\\",
       "BasePath": "_content/TALARII",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

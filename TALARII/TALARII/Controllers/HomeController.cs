@@ -27,6 +27,10 @@ namespace TALARII.Controllers
         {
             return View();
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6e21befc66071194c6b87944e578ca6c95a0f72e
 
         public IActionResult Services()
         {
