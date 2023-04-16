@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NyQWvaRPo7wvWB38NEj7PHBe/mKyQmWgK0RhCqtL+S8=",
+  "Hash": "dHh1sbR9vFZKvnHv3EPMU9bJ8TUqxYOI2818AHTXvKQ=",
   "Source": "TALARII",
   "BasePath": "_content/TALARII",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\C#\\TALARII\\TALARII\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TALARII.bundle.scp.css"
     },
     {
+      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\Custom.css",
+      "SourceId": "TALARII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "BasePath": "_content/TALARII",
+      "RelativePath": "css/Custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Custom.css"
+    },
+    {
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\site.css",
       "SourceId": "TALARII",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Contacts.jpg",
+      "SourceId": "TALARII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\TALARII\\TALARII\\wwwroot\\",
+      "BasePath": "_content/TALARII",
+      "RelativePath": "img/Contacts.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Contacts.jpg"
     },
     {
       "Identity": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Jordan.jpg",

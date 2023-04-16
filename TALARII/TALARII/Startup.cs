@@ -1,4 +1,7 @@
-﻿namespace TALARII
+﻿using TALARII.Models;   // пространство имен моделей
+using Microsoft.EntityFrameworkCore; // пространство имен EntityFramework
+
+namespace TALARII
 {
     public class Startup
     {
@@ -12,7 +15,7 @@
         public void ConfigureServices(IServiceCollection services)
         {
             string connection = Configuration.GetConnectionString("DefaultConnection");
-            //services.AddDbContext<GlinovkaContext>(options => options.UseSqlServer(connection));
+            services.AddDbContext<Context>(options => options.UseSqlServer(connection));
             services.AddControllersWithViews();
         }
 

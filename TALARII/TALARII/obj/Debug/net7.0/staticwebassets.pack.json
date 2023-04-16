@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\TALARII.bundle.scp.css"
     },
     {
+      "Id": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\css\\Custom.css"
+    },
+    {
       "Id": "C:\\C#\\TALARII\\TALARII\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\C#\\TALARII\\TALARII\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Contacts.jpg",
+      "PackagePath": "staticwebassets\\img\\Contacts.jpg"
     },
     {
       "Id": "C:\\C#\\TALARII\\TALARII\\wwwroot\\img\\Jordan.jpg",
